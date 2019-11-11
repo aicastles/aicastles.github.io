@@ -6,11 +6,13 @@
 }
 
 .logotext {
+    display: flex;
     font-size: 16px;
     font-weight:bold;
 }
 
 .slogan {
+    display: flex;
     font-size: 16px;
     font-weight:bold;
 }
@@ -22,10 +24,12 @@
 }
 
 .book {
+    display: flex;
     width: 200px;
 }
 
 .bookname {
+    display: flex;
     font-size: 16px;
     font-weight:bold;
 }
