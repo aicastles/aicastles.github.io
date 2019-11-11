@@ -1,5 +1,9 @@
 
-.toplogo{
-
-    margin: 0 auto;
+.toplogo {
+    align-items: center;
+    justify-content: center;
+}
+.books {
+    align-items: center;
+    justify-content: center;
 }
