@@ -11,12 +11,14 @@
     display: flex;
     font-size: 16px;
     font-weight:bold;
+    margin-top: 10px;
 }
 
 .slogan {
     display: flex;
     font-size: 16px;
     font-weight:bold;
+    margin-top: 10px;
 }
 
 .books {
@@ -24,11 +26,13 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-top: 20px;
 }
 
 .book {
     display: flex;
     width: 200px;
+    margin-bottom: 15px;
 }
 
 .bookname {
