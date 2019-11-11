@@ -1,6 +1,7 @@
 
 .toplogo {
     display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 
@@ -18,6 +19,7 @@
 
 .books {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
