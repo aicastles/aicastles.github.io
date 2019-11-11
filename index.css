@@ -4,8 +4,13 @@
     align-items: center;
     justify-content: center;
 }
+
 .books {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.book {
+    width: 200px;
 }
