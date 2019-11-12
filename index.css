@@ -5,9 +5,10 @@ a:link,a:visited {
 }
 
 .divideline {
-    height:1px;
+    height:5px;
     border:none;
     border-top:1px solid #555555;
+    margin-top: 20px;
 }
 
 .toplogo {
