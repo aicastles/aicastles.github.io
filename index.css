@@ -1,7 +1,13 @@
 
-a:link,a:visited{
+a:link,a:visited {
  text-decoration:none;  /*超链接无下划线*/
  color: black;
+}
+
+.divideline {
+    height:1px;
+    border:none;
+    border-top:1px solid #555555;
 }
 
 .toplogo {
