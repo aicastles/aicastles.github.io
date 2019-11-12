@@ -141,6 +141,14 @@
     margin-top: 20px;
 }
 
+.linklogorow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
 .linklogostitle {
     display: flex;
     flex-direction: column;
