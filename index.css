@@ -133,6 +133,51 @@
     font-size: 16px;
 }
 
+.linklogos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.linklogostitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight:bold;
+}
+
+.linklogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.linklogoimg {
+    display: flex;
+    width: 200px;
+    margin-bottom: 15px;
+}
+
+.linklogoname {
+    display: flex;
+    font-size: 16px;
+}
+
+.aiclasses {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
 .copyright {
     display: flex;
     flex-direction: column;
