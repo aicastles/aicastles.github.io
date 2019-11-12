@@ -90,6 +90,7 @@
 .articlename {
     display: flex;
     font-size: 16px;
+    margin-left: 20px;
 }
 
 .aiclasses {
