@@ -57,8 +57,10 @@ a:link,a:visited {
 }
 
 .forewordtext {
+    margin-top: 10px;
     display: flex;
     font-size: 16px;
+    color: #555555;
 }
 
 .books {
