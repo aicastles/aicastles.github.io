@@ -34,13 +34,13 @@ a:link,a:visited {
     color: red;
 }
 
-.forword {
+.foreword {
     display: flex;
     flex-direction: column;
     margin-top: 20px;
 }
 
-.forwordtitle {
+.forewordtitle {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -50,13 +50,13 @@ a:link,a:visited {
     font-weight:bold;
 }
 
-.forwordimg {
+.forewordimg {
     display: flex;
     width: 200px;
     margin-bottom: 15px;
 }
 
-.forwordtext {
+.forewordtext {
     display: flex;
     font-size: 16px;
 }
