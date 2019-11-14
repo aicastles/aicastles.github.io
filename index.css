@@ -102,6 +102,43 @@ a:link,a:visited {
     font-size: 16px;
 }
 
+.fictions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.fictionstitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight:bold;
+}
+
+.fiction {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.fictionimg {
+    display: flex;
+    width: 200px;
+    margin-bottom: 15px;
+}
+
+.fictionname {
+    display: flex;
+    font-size: 16px;
+}
+
 .articles {
     display: flex;
     flex-direction: column;
